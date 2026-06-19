@@ -2,6 +2,10 @@
 
 This autonomous vehicle prototype was developed as a university graduation project. The vehicle follows a line, detects obstacles with an ultrasonic sensor and changes lanes, and stops for safety when a human face is detected by the Raspberry Pi camera.
 
+
+https://github.com/user-attachments/assets/58221006-26fa-4064-8a35-805309704e4b
+
+
 ## Features
 
 - Line following with a five-channel infrared sensor array
