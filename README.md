@@ -182,7 +182,3 @@ Important Raspberry Pi settings include:
 ## Safety Notice
 
 This project is intended for education and prototyping only. It must not be used in real traffic or in environments where human safety is critical. Perform initial tests at low speed, in a controlled area, and with the wheels raised from the ground. A physical emergency stop switch is recommended.
-
-## Contributing and License
-
-Issues and pull requests are welcome. Before publishing the project as open source, add a `LICENSE` file containing your preferred license.
